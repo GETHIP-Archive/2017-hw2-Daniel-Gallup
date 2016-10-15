@@ -9,7 +9,7 @@
         {"nick": "Coach"}
     ],
 	
-	"bookMarks"
+	"bookMarks": 
 	[
 		{"key", "http://www.gallup.com/"},
 		{"key", "http://blockland.us/"}

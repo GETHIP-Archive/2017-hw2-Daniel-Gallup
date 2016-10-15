@@ -1,6 +1,6 @@
 $(document).ready(function() 
 {
-  $.getJSON("https://raw.githubusercontent.com/GETHIP/HW2-Template/master/daniel.json", function(data)
+  $.getJSON("https://raw.githubusercontent.com/GETHIP-Classroom/2017-hw2-Daniel-Gallup/master/daniel.json", function(data)
   {
     console.log(data);
 	
