@@ -1,0 +1,17 @@
+{
+    "firstName":"Daniel",
+    "lastName":"Rust",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/3/39/Feral_cat_1.JPG",
+	
+    "nickNames": 
+	[
+        {"nick": "Dan"},
+        {"nick": "Coach"}
+    ],
+	
+	"bookMarks"
+	[
+		{"key", "http://www.gallup.com/"},
+		{"key", "http://blockland.us/"}
+	]
+}
